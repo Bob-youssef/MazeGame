@@ -6,9 +6,17 @@ This Python project is a maze game built with Pygame. The player navigates throu
 
 # Installation Steps : 
 1- Make Sure Python 3.x is installed 
+
 2- Install Pygame and Qiskit library by running command : 
    pip install pygame qiskit
+
 3- Run Main Game File : "python QRandom.py"
+
+# Main Components : 
+- Cell Class: Represents each cell in the maze grid, handling wall drawing, neighbor checks, and movement.
+- changeColor Function: Smoothly transitions the background color between two specified ranges.
+- Button Catch Game: A mini-game where the "Claim" button moves to random positions, making it challenging for the player to click.
+- Password Check: Prompts the player for a password after the mini-game
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
