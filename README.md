@@ -23,7 +23,7 @@ This Python project is a maze game built with Pygame. The player navigates throu
 
 2- Youssef Mostafa (https://github.com/Yootooo)
 
-3- Mohammed Waleed ()
+3- Mohammed Waleed (https://github.com/MoWaleid)
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
