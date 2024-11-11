@@ -18,5 +18,8 @@ This Python project is a maze game built with Pygame. The player navigates throu
 - Button Catch Game: A mini-game where the "Claim" button moves to random positions, making it challenging for the player to click.
 - Password Check: Prompts the player for a password after the mini-game
 
+# Fellow Teammates : 
+1- Morkos Shenouda (https://github.com/Morkos-Shenouda)
+2- Youssef
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
