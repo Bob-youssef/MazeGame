@@ -20,6 +20,8 @@ This Python project is a maze game built with Pygame. The player navigates throu
 
 # Fellow Teammates : 
 1- Morkos Shenouda (https://github.com/Morkos-Shenouda)
-2- Youssef
+2- Youssef Mostafa (https://github.com/Yootooo)
+3- Mohammed Waleed ()
+
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
